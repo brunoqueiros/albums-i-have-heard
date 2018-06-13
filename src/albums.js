@@ -1,5 +1,21 @@
 export default [
   {
+    'title': 'We Were Here',
+    'artist': 'Boy',
+    'artwork': 'artworks/boy-we-were-here.png',
+    'date': 'June 13, 2018',
+    'rating': 3,
+    'spotify_link': 'https://open.spotify.com/album/5ayUqxx1iyy8AI9QngJguQ'
+  },
+  {
+    'title': 'The Future and the Past',
+    'artist': 'Natalie Prass',
+    'artwork': 'artworks/natalie-prass-the-future-and-the-past.png',
+    'date': 'June 12, 2018',
+    'rating': 4,
+    'spotify_link': 'https://open.spotify.com/album/4eaB4Z7pCzLfvgvdbq2mVO'
+  },
+  {
     'title': 'Tell Me How You Really Feel',
     'artist': 'Courtney Barnett',
     'artwork': 'artworks/courtney-barnett-tell-me-how-you-really-feel.jpg',
@@ -36,7 +52,7 @@ export default [
     'artist': 'Arctic Monkeys',
     'artwork': 'artworks/arctic-monkeys-tranquility-base-hotel-and-casino.jpg',
     'date': 'May, 2018',
-    'rating': 3,
+    'rating': 4,
     'spotify_link': 'https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe'
   },
   {
@@ -52,7 +68,14 @@ export default [
     'artist': 'Declan Mckenna',
     'artwork': 'artworks/declan-mckenna-what-do-you-think-about-the-car.jpg',
     'date': 'February, 2018',
-    'rating': 4,
+    'rating': 5,
     'spotify_link': 'https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ'
+  },
+  {
+    'title': 'Senontipiacefalostesso Uno',
+    'artist': 'L\'officina della camomilla',
+    'artwork': 'artworks/lofficina-della-camomilla-senontipiacefalostesso-uno.png',
+    'rating': 4,
+    'spotify_link': 'https://open.spotify.com/album/2XthexHJorRKf5FjxYRClw'
   }
 ];
