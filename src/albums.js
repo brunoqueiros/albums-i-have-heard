@@ -1,5 +1,13 @@
 export default [
   {
+    'title': 'God\'s Favorite Customer',
+    'artist': 'Father John Misty',
+    'artwork': 'artworks/father-john-misty-gods-favorite-customer.jpg',
+    'date': 'June 14, 2018',
+    'rating': 4,
+    'spotify_link': 'https://open.spotify.com/album/0hMPUtgjezv7gUsmhztvPv'
+  },
+  {
     'title': 'We Were Here',
     'artist': 'Boy',
     'artwork': 'artworks/boy-we-were-here.png',
